@@ -1,0 +1,9 @@
+E:\Aditya Verma\LabX\LabX\bin\Debug\LabX.exe.config
+E:\Aditya Verma\LabX\LabX\bin\Debug\LabX.exe
+E:\Aditya Verma\LabX\LabX\bin\Debug\LabX.pdb
+E:\Aditya Verma\LabX\LabX\obj\Debug\LabX.csprojResolveAssemblyReference.cache
+E:\Aditya Verma\LabX\LabX\obj\Debug\LabX.Form1.resources
+E:\Aditya Verma\LabX\LabX\obj\Debug\LabX.Properties.Resources.resources
+E:\Aditya Verma\LabX\LabX\obj\Debug\LabX.csproj.GenerateResource.Cache
+E:\Aditya Verma\LabX\LabX\obj\Debug\LabX.exe
+E:\Aditya Verma\LabX\LabX\obj\Debug\LabX.pdb
